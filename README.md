@@ -1,1 +1,1 @@
-"# get_bangumi_calendar" 
+# get_bangumi_calendar
